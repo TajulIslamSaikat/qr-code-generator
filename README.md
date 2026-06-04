@@ -4,6 +4,8 @@ A pure JavaScript QR code generator with zero dependencies. Implements ISO/IEC 1
 
 **[🔗 Live Demo → tajulislamsaikat.github.io/qr-code-generator](https://tajulislamsaikat.github.io/qr-code-generator/)**
 
+By [Tajul Islam Saikat](https://github.com/tajulislamsaikat)
+
 ---
 
 ## Features
