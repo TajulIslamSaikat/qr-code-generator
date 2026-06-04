@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="7" fill="#0a0a0f"/>
+  <!-- top-left finder -->
+  <rect x="3" y="3" width="11" height="11" rx="2" fill="#7c6af7"/>
+  <rect x="5" y="5" width="7" height="7" rx="1" fill="#0a0a0f"/>
+  <rect x="7" y="7" width="3" height="3" fill="#7c6af7"/>
+  <!-- top-right finder -->
+  <rect x="18" y="3" width="11" height="11" rx="2" fill="#7c6af7"/>
+  <rect x="20" y="5" width="7" height="7" rx="1" fill="#0a0a0f"/>
+  <rect x="22" y="7" width="3" height="3" fill="#7c6af7"/>
+  <!-- bottom-left finder -->
+  <rect x="3" y="18" width="11" height="11" rx="2" fill="#7c6af7"/>
+  <rect x="5" y="20" width="7" height="7" rx="1" fill="#0a0a0f"/>
+  <rect x="7" y="22" width="3" height="3" fill="#7c6af7"/>
+  <!-- data dots bottom-right -->
+  <rect x="18" y="18" width="3" height="3" rx="1" fill="#c084fc"/>
+  <rect x="22" y="18" width="3" height="3" rx="1" fill="#7c6af7"/>
+  <rect x="26" y="18" width="3" height="3" rx="1" fill="#c084fc"/>
+  <rect x="18" y="22" width="3" height="3" rx="1" fill="#7c6af7"/>
+  <rect x="22" y="22" width="3" height="3" rx="1" fill="#c084fc"/>
+  <rect x="26" y="22" width="3" height="3" rx="1" fill="#7c6af7"/>
+  <rect x="18" y="26" width="3" height="3" rx="1" fill="#c084fc"/>
+  <rect x="22" y="26" width="3" height="3" rx="1" fill="#7c6af7"/>
+  <rect x="26" y="26" width="3" height="3" rx="1" fill="#c084fc"/>
+</svg>
